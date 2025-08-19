@@ -1,2 +1,2 @@
 # TelecomChallengeAllura
-Se evaluará la cantidad de clientes que son morosos
+Se evaluará la cantidad de clientes que son morosos utilizando diferentes herramientas
